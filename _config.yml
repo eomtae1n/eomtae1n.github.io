@@ -3,8 +3,8 @@ title: "Milo"
 about: "Bootstrap theme for jekyll"
 markdown: kramdown
 url: ""
-baseurl: "/jekyll-theme-milo"
-disqus_short_name: disqus-demo-page
+baseurl: "/"
+disqus_short_name: "eomtae1n"
 
 plugins: 
   - jekyll-paginate
