@@ -4,7 +4,7 @@ layout: post
 date: 2020-01-21
 description: A complete post.
 image: 2.jpg
-categories: ["c"]
+categories: ["d"]
 ---
 
 

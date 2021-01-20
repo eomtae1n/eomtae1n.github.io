@@ -3,7 +3,7 @@ title: "Milo"
 about: "Bootstrap theme for jekyll"
 markdown: kramdown
 url: ""
-baseurl: "/"
+baseurl: "/jekyll-theme-milo"
 disqus_short_name: eomtae1n
 
 plugins: 
