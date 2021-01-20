@@ -4,7 +4,7 @@ about: "Bootstrap theme for jekyll"
 markdown: kramdown
 url: ""
 baseurl: "/"
-disqus_short_name: "eomtae1n"
+disqus_short_name: eomtae1n
 
 plugins: 
   - jekyll-paginate
