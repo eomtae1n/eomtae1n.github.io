@@ -16,7 +16,7 @@ categories: ["n"]
 
 NHN 플레이뮤지엄 사옥 내부에 들어와서야 내가 판교에 있는 회사에 다니는구나 하고 실감했다.
 
-![사원증](https://user-images.githubusercontent.com/37218734/105276700-56648a00-5be5-11eb-92b2-28a7c596e548.jpeg)
+![사원증](https://user-images.githubusercontent.com/37218734/105277365-a2fc9500-5be6-11eb-826e-990e3bc50d57.jpeg)
 
 인포에서 사원증을 받고, 입문교육이 이루어지는 2층 교육장으로 이동했다. 조 배정을 받은 후, 자리에 앉았고 옆자리의 동기들과 간단하게 인사와 대화를 나누며 긴장을 덜어냈다.
 
@@ -38,7 +38,7 @@ _(물론, 아직 자취방을 구하지 못해 재택이 아니었다면 출퇴�
 
 마지막 날에는 입문교육 최종랩업과 팀미션 점수를 합산한 시상식이 진행되었는데,,
 
-![COX 키보드](https://user-images.githubusercontent.com/37218734/105276911-b9562100-5be5-11eb-85f8-5132dabb7368.jpeg)
+![COX 키보드](https://user-images.githubusercontent.com/37218734/105277432-c0c9fa00-5be6-11eb-92c0-7baed5cd10ae.jpeg)
 
 
 > ###### 우리 조가 전체 2등을 해 키보드를 상품으로 받았다!
