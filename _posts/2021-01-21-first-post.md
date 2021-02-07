@@ -1,14 +1,14 @@
 ---
 title: NHN 2021 BE THE ROOKIE 입문교육
 layout: post
-date: 2020-01-21
+date: 2021-01-21
 description: A complete post.
 image: 10.jpg
 categories: ["n"]
 ---
 
 
-#### 2020년 1월 4일, 
+#### 2021년 1월 4일, 
 
 ##### 직장인으로서 첫 출근!
 

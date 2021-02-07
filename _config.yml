@@ -1,6 +1,6 @@
 title: "1n.Blog"
 
-about: "🐷개발자 블로그"
+about: "개발자 블로그"
 markdown: kramdown
 url: "https://eomtae1n.github.io"
 baseurl: "/"
