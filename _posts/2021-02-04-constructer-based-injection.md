@@ -135,7 +135,7 @@ public class StudentServiceImpl implements StudentService {
 ```
 
 이 경우는 위의 코드에서 필드 주입을 생성자 주입으로만 바꾼 코드입니다. 실행해보면 아래와 같은 로그가 찍히며 앱 구동이 실패합니다.
-![스크린샷 2021-02-03 오후 11.29.01.png](/files/2936522188039713325)
+<img width="367" alt="순환참조 오류" src="https://user-images.githubusercontent.com/37218734/107149498-48ac5400-699c-11eb-805a-2e06148fd71b.png">
 스프링 앱 구동 시 빈을 생성하는 시점에서 객체 간 사이클관계가 형성되어 위와 같이 안내를 해주기에 앱 실행도중 종료되는 것을 방지합니다.
 
 ### **3\. 테스트 코드 작성이 용이하다**
@@ -143,7 +143,7 @@ public class StudentServiceImpl implements StudentService {
 테스트 코드 작성에 대한 연습은 앞으로 더 필요하기때문에 세 번째 장점은 아직 잘 체감되지 않는 것 같습니다.
 
 하지만,
-![스크린샷 2021-02-03 오후 11.41.02.png](/files/2936522270338034508)
+<img width="377" alt="테스트코드 작성 용이" src="https://user-images.githubusercontent.com/37218734/107149537-72657b00-699c-11eb-9e6f-bd3ad4fb7194.png">
 이런 장점이 있다고 합니다. 이 부분은 이후에 테스트 코드를 작성해보며 조금 더 이해해보겠습니다.
 
 ## **결론**
