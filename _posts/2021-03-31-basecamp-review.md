@@ -44,7 +44,7 @@ categories: ["n"]
 
 Basecamp가 마무리 되며 루키사자TF에서 개발한 ticGet! 예매 서비스를 정식 오픈하게 되었다.
 
-![스크린샷 2021-03-29 오후 5 48 02](https://user-images.githubusercontent.com/37218734/112811400-00193900-90b7-11eb-8822-721bc6ac78de.png){: width="20%" height="20%"}
+![스크린샷 2021-03-29 오후 5 48 02](https://user-images.githubusercontent.com/37218734/112811400-00193900-90b7-11eb-8822-721bc6ac78de.png){: width="50%" height="50%"}
 
 ## 10주 간의 Basecamp 종료
 
